@@ -8,8 +8,8 @@ int strum = 0;                   //0 = no strum, 1 = strum up, 2 = strum down
 
 // ----- Individual notes -----
 //const byte note_array[5]             = {64, 66, 67, 69, 71};
-//const byte note_array[5]             = {E4, G4b, G4, A4, B4};
-const byte come_as_you_are[5]        = {E2, F2, G2b, A2, B2};
+const byte note_array[5]             = {E2, F2, G2b, A2, B2};
+//const byte come_as_you_are[5]        = {E2, F2, G2b, A2, B2};
 //const byte beethoven_9_symphony[5]   = {C4, D4, E4, F4, G4};
 //const byte seven_nation_army[5]      = {E2, F2, G2, A2, B2};
 //const byte smoke_on_the_water[5]     = {G2, B2b, C2, D2b, A2b}; 
