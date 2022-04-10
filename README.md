@@ -5,7 +5,7 @@ For this project to work I decided to use an Arduino that has the ATMega32u4 mic
 There is support for 3 games. Guitar Hero, Clone Hero and Guitar Flash.  
 In the MIDI guitar there are also 2 modes, single note mode and chord mode.
 # Youtube  
-If you want to see the project in action click here.      
+If you want to see the project in action click [here](https://youtu.be/rfQtF9wNfng).        
 # Modes  
 There are 4 modes, wich you can change with the "start" button.  
 The modes are(in order):  
